@@ -1,0 +1,17 @@
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.cursor/
+
+# Build outputs
+target/
+build/
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
